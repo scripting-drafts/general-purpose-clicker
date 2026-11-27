@@ -4,3 +4,9 @@ Get the range of coordinates of what has to be clicked. i.e. Use MouseTools on O
 The default range of time between clicks is the z value when the current click number isn't any of the specified ones in the if's.
 
 Change the total number of clicks by setting the times_to_repeat value.
+
+## Windows
+get-coordinates.ps1
+
+## Linux (Wayland)
+cursorpos.sh
